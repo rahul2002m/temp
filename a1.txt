@@ -1,0 +1,2 @@
+aaa
+for i in *.txt; do echo "aaa" > ${i}; done;
